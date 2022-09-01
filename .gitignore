@@ -1,0 +1,4 @@
+package-lock.json
+node_modules
+cypress/e2e/videos
+cypress/e2e/screenshots
